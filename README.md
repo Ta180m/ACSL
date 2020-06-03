@@ -1,3 +1,3 @@
 # ACSL
 
-A collection of solutions to ACSL contests (http://www.acsl.org/)
+A collection of solutions for ACSL problems (http://www.acsl.org/)
